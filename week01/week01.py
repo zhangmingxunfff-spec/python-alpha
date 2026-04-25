@@ -28,8 +28,8 @@ x = 10
 # bool = การตัดสินใจ true , false (true = 1 , false = 0)
 # list = [ ]
 
-fisrtname = "wachirawit"
-lastName = ' mool-Ang'
+fisrtname = "mingxun"
+lastName = 'zhang'
 
 x = 100.12345
 
